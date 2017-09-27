@@ -1,0 +1,8 @@
+name: BuildingBattle
+main: com.github.JHXSMatthew.BuildingBattle
+version: 0.0.1-SNAPSHOT
+depend: [ProtocolLib, GameEvent]
+commands:
+  bb:
+    description: Main command!
+    aliases: [wall]
